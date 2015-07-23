@@ -7,7 +7,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormProtectNet", "FormProte
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{64BDEDB3-67CA-4887-9CC9-1B720E62E3AA}"
 	ProjectSection(SolutionItems) = preProject
+		LICENSE.md = LICENSE.md
 		NuGetPack.cmd = NuGetPack.cmd
+		README.md = README.md
 	EndProjectSection
 EndProject
 Global
