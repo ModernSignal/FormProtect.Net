@@ -5,6 +5,8 @@ This project was inspired by [CFFormProtect](http://cfformprotect.riaforge.org/)
 Currently only two tests are implemented: a hidden form field and ProjectHoneypot. 
 These two tests are surprisingly effective in stopping most spam, however.
 
+Available on [nuget.org](https://www.nuget.org/packages/FormProtectNet).
+
 ## Usage
 
 ### Step 1: Instantiate FormProtect object:
